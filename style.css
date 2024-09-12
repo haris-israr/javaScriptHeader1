@@ -80,6 +80,7 @@
     border-top-left-radius: 10px;
     backdrop-filter: blur(10px);
     box-shadow: -10px,0,10px rgba(23, 23, 23,0.3);
+    display: none;
     
 
 }
